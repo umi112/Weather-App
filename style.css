@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,52,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.main {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 1rem;
+    height: 300px;
+}
+#inp , #btn {
+margin-top: 2rem;
+
+}
+.head{
+    margin-left: rem;
+    color:white;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+text-align: center;
+}
